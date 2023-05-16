@@ -1,0 +1,9 @@
+.row {
+    padding: 20px;
+    background-color: rgb(192, 139, 241);
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px 2px 1px rgb(212, 127, 96);
+    
+}

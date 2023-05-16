@@ -1,0 +1,15 @@
+.row {
+    padding: 10px;
+}
+#stack {
+    padding-top: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div {
+    background-color: rgb(207, 165, 216);
+    text-align: center;
+}
+#foto-perfil {
+    border-radius: 100%;
+    box-shadow:  3px 3px 3px greenyellow;
+}

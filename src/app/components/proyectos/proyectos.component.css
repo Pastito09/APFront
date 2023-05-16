@@ -1,0 +1,22 @@
+#logoGitLink {
+    width: 28px;
+    margin: 5px;
+}
+.row {
+    background-color: rgb(182, 132, 229);
+    padding: 20px;
+    
+    
+}
+.contenedor {
+    width: 100%;
+
+}
+.proyectos {
+    display: inline-block;
+    text-align: center;
+    align-items: start;
+}
+h1 {
+    text-align: center;
+}
